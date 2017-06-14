@@ -83,6 +83,9 @@ Explain what next steps could involve
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
+## Acknowledgments & Inspirations
 
-* Credits to Melissa Zimdars of Merrimack College and her research team for the clickbait-y news sources: http://www.opensources.co/
+* Credit to Melissa Zimdars of Merrimack College and her research team for the clickbait-y news sources: http://www.opensources.co/
+* Udemy Course: [Dan Rather On Journalism and Integrity in the News](https://docs.google.com/document/d/1UVVm6Ic0m5842JjSAJCTwutLp-K0dD7f-wtblHAN3rA/edit#heading=h.agfnahz97djy)
+* 2016 Election Cycle: https://www.martechadvisor.com/articles/content-marketing/the-misinformation-age-ais-role-in-recognizing-fake-news/
+
