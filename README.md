@@ -72,7 +72,11 @@ Give an example
 
 ## Future Work
 
-Explain what next steps could involve
+Expand to other aspects of fake news as described by Brennan Borlaug - one member of small team of grad students at UC Berkeley who have defined 'fake news' as a broad category of the following attributes:
+- Clickbait — Shocking headlines meant to generate clicks to increase ad revenue. Oftentimes these stories are highly exaggerated or totally false.
+- Propaganda — Intentionally misleading or deceptive articles meant to promote the author’s agenda. Oftentimes the rhetoric is hateful and incendiary.
+- Commentary/Opinion — Biased reactions to current events. These articles oftentimes tell the reader how to perceive recent events.
+- Humor/Satire — Articles written for entertainment. These stories are not meant to be taken seriously.
 
 
 ## Author
