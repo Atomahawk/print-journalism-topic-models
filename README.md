@@ -1,6 +1,6 @@
-Python  | Numpy | Pandas | Statsmodels | Sci-Kit Learn
---------|-----|-----|---------|------
-[![PyPI](https://img.shields.io/badge/python-3.5-blue.svg)]() | [![PyPI version](https://badge.fury.io/py/numpy.svg)](https://badge.fury.io/py/numpy) | [![PyPI version](https://badge.fury.io/py/pandas.svg)](https://badge.fury.io/py/pandas) | [![PyPI version](https://badge.fury.io/py/statsmodels.svg)](https://badge.fury.io/py/statsmodels) |  [![PyPI version](https://badge.fury.io/py/scikit-learn.svg)](https://badge.fury.io/py/scikit-learn)
+Python  | Numpy | Pandas | Scikit-Learn
+--------|-----|-----|---------
+[![PyPI](https://img.shields.io/badge/python-3.5-blue.svg)]() | [![PyPI version](https://badge.fury.io/py/numpy.svg)](https://badge.fury.io/py/numpy) | [![PyPI version](https://badge.fury.io/py/pandas.svg)](https://badge.fury.io/py/pandas) |   [![PyPI version](https://badge.fury.io/py/scikit-learn.svg)](https://badge.fury.io/py/scikit-learn)
 
 Repo update in progress! Slides live [here](https://docs.google.com/presentation/d/1EsK5ZUHGKwBlq2QcCHTk0cNmycLwj96eaILlKTLJFnQ/edit?usp=sharing).  **Code coming soon**
 
